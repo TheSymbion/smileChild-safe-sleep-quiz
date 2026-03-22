@@ -44,6 +44,8 @@ User Tracking: Right now, the app tracks "Global Stats" for everyone who plays. 
 
 Infrastructure: I’m using ngrok as a temporary bridge for my local server. It works great for a demo, but the next step would be deploying the backend to Render so the link never changes and stays "always on."
 
+Simplicity over Weight: I kept the UI clean and focused on the safety-sleep mission rather than adding heavy animations that might complicate the core logic during a short technical evaluation
+
 ## Tests
 cd smileChild-App
 npm test
